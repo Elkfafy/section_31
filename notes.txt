@@ -13,3 +13,5 @@ Git
 - git rm --cached <filename> => remove file from staged area to working directory
 - git commit -m 'message' => add files from stage to repository
 - git push and git push --set-upstream origin main (create new branch in remote repository)
+- git merge - move data from local repository to working directory
+- git pull - move data directly from remote repository to working directory
