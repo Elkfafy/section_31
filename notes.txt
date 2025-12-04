@@ -1,0 +1,10 @@
+Git and Github
+Git
+-  free and open source distributed version control system
+- open source: مفتوح المصدر - برنامج معروف الكود بتاعه
+- معظم البرامج مفتوحة المصدر مجانية والباقي مجاني لكن بشروط زي مجاني طول ما الاستخدام شخصي وليس للتجارة
+- wordpress: free open source program - blog websites (Content management system)
+- version control
+- v1 , v2, v3
+- git bash
+- git repository: الوحده الاساسية ل git بيخزن الملفات - العمليات اللي حصلت عليها من تعديل وحذف واضافة
