@@ -8,3 +8,6 @@ Git
 - v1 , v2, v3
 - git bash
 - git repository: الوحده الاساسية ل git بيخزن الملفات - العمليات اللي حصلت عليها من تعديل وحذف واضافة
+- git add => add to stage area
+- git status => show status of the repository
+- git rm --cached <filename> => remove file from staged area to working directory
