@@ -15,4 +15,5 @@ Git
 - git push and git push --set-upstream origin main (create new branch in remote repository)
 - git fetch - get from remote repository to local repository
 - git merge - move data from local repository to working directory
-- git pull - move data directly from remote repository to working directory
+- git pull - move data directly from remote repository to working directory or merge with specific branch
+- git reset - reset to specific commit
