@@ -11,3 +11,4 @@ Git
 - git add => add to stage area
 - git status => show status of the repository
 - git rm --cached <filename> => remove file from staged area to working directory
+- git commit -m 'message' => add files from stage to repository
